@@ -11,7 +11,7 @@ __Requirements:__
 
 __Controls:__ 
 - Instructions in game
-- Click on the Controlis icon in the menu of Battle Area to look at Player Controls
+- Click on the Controls icon in the menu of Battle Area to look at Player Controls
 - Close the application by clickiong the red x icon on the top right of the application
 
 __Methods:__ 
