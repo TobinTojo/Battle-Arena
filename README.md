@@ -16,4 +16,4 @@ __Controls:__
 
 __Methods:__ 
 - Incorporated Enumerators to handle certain situations of the player in game
-- Incorporated a timer to check detections and movement of objects, as well as to update player the number of player lives and to switch forms when one of the players reaches 0 lives
+- Incorporated a timer to check detections and movement of objects,  spawn items, as well as to update player the number of player lives and to switch forms when one of the players reaches 0 lives
