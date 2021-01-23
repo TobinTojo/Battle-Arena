@@ -20,3 +20,6 @@ __Methods:__
 - Incorporated Enumerators to handle certain situations of the player in game
 - Incorporated a timer to check detections and movement of objects,  spawn items, as well as to update player the number of player lives and to switch forms when one of the players reaches 0 lives
 - Utilized static variables for other forms to use to help with game functionality such as figuring out the winner between player and the character picked by each player
+
+__Credits:__
+- Game created by Tobin Tojo and Diego Diaz for ICS3U1 Computer Science CPT
