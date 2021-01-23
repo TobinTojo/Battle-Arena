@@ -12,6 +12,8 @@ __Requirements:__
 __Controls:__ 
 - Instructions in game
 - Click on the Controls icon in the menu of Battle Area to look at Player Controls
+- Player 1 can play as either Doom Guy or Mario
+- Player 2 can play as either Link or Green Shirt Guy
 - Close the application by clickiong the red x icon on the top right of the application
 
 __Methods:__ 
