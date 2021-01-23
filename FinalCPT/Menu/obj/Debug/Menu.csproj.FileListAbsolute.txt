@@ -1,0 +1,60 @@
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\bin\Debug\Menu.exe.config
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\bin\Debug\Menu.exe
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\bin\Debug\Menu.pdb
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\obj\Debug\Menu.frmMenu.resources
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\obj\Debug\Menu.frmControls.resources
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\obj\Debug\Menu.Resource1.resources
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\obj\Debug\Menu.exe
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\obj\Debug\Menu.pdb
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\obj\Debug\Menu.frmCharacterSelect.resources
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\obj\Debug\Menu.frmGame1.resources
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\obj\Debug\Menu.frmGameWinner.resources
+C:\Users\074492497\Documents\ICS3U\Assignments\FinalCPT\Menu\obj\Debug\Menu.frmPowerups.resources
+E:\COM SCI CPT\FinalCPT\Menu\bin\Debug\Menu.exe.config
+E:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.exe
+E:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.pdb
+E:\COM SCI CPT\FinalCPT\Menu\bin\Debug\Menu.exe
+E:\COM SCI CPT\FinalCPT\Menu\bin\Debug\Menu.pdb
+E:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+E:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.frmMenu.resources
+E:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.frmControls.resources
+E:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.frmCharacterSelect.resources
+E:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.frmGame1.resources
+E:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.frmGameWinner.resources
+E:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.frmPowerups.resources
+E:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.Properties.Resources.resources
+E:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.Resource1.resources
+E:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+H:\COM SCI CPT\FinalCPT\Menu\bin\Debug\Menu.exe.config
+H:\COM SCI CPT\FinalCPT\Menu\bin\Debug\Menu.exe
+H:\COM SCI CPT\FinalCPT\Menu\bin\Debug\Menu.pdb
+H:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+H:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.frmMenu.resources
+H:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.frmControls.resources
+H:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.frmCharacterSelect.resources
+H:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.frmGame1.resources
+H:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.frmGameWinner.resources
+H:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.frmPowerups.resources
+H:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.Properties.Resources.resources
+H:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.Resource1.resources
+H:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+H:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.exe
+H:\COM SCI CPT\FinalCPT\Menu\obj\Debug\Menu.pdb
+C:\Users\Tobin\Desktop\FinalCPT\Menu\bin\Debug\Menu.exe.config
+C:\Users\Tobin\Desktop\FinalCPT\Menu\obj\Debug\Menu.exe
+C:\Users\Tobin\Desktop\FinalCPT\Menu\obj\Debug\Menu.pdb
+C:\Users\Tobin\Desktop\FinalCPT\Menu\bin\Debug\Menu.exe
+C:\Users\Tobin\Desktop\FinalCPT\Menu\bin\Debug\Menu.pdb
+C:\Users\Tobin\Desktop\FinalCPT\Menu\obj\Debug\Menu.frmMenu.resources
+C:\Users\Tobin\Desktop\FinalCPT\Menu\obj\Debug\Menu.frmControls.resources
+C:\Users\Tobin\Desktop\FinalCPT\Menu\obj\Debug\Menu.frmCharacterSelect.resources
+C:\Users\Tobin\Desktop\FinalCPT\Menu\obj\Debug\Menu.frmGame1.resources
+C:\Users\Tobin\Desktop\FinalCPT\Menu\obj\Debug\Menu.frmGameWinner.resources
+C:\Users\Tobin\Desktop\FinalCPT\Menu\obj\Debug\Menu.frmPowerups.resources
+C:\Users\Tobin\Desktop\FinalCPT\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Tobin\Desktop\FinalCPT\Menu\obj\Debug\Menu.Resource1.resources
+C:\Users\Tobin\Desktop\FinalCPT\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Tobin\Desktop\FinalCPT\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
